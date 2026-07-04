@@ -1,8 +1,8 @@
 [
   {
    "cat": "tool",
-    "title": "磁盘空间整理",
-    "desc": "WinDirStat-v2.2.2-x64.msi",
+    "title": "WinDirStat-v2.2.2-x64.msi",
+    "desc": "磁盘空间整理",
     "links": {
       "hf": "https://huggingface.co/datasets/datxy/demo/resolve/main/win/WinDirStat-v2.2.2-x64.msi",
       "hfCn": "https://hf-mirror.com/datasets/datxy/demo/resolve/main/win/WinDirStat-v2.2.2-x64.msi",
@@ -12,8 +12,8 @@
   },
   {
    "cat": "tool",
-    "title": "银河系全景图",
-    "desc": "eso1242a.psb",
+    "title": "eso1242a.psb",
+    "desc": "银河系全景图",
     "links": {
       "hf": "https://huggingface.co/datasets/datxy/demo/blob/main/test/eso1242a.psb",
       "hfCn": "https://hf-mirror.com/datasets/datxy/demo/blob/main/test/eso1242a.psb",
