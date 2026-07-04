@@ -1,0 +1,20 @@
+[
+  {
+   "cat": "tool",
+    "title": "磁盘空间整理",
+    "desc": "WinDirStat-v2.2.2-x64.msi",
+    "links": {
+      "hf": "https://huggingface.co/datasets/datxy/demo/resolve/main/win/WinDirStat-v2.2.2-x64.msi",
+      "hfCn": "https://hf-mirror.com/datasets/datxy/demo/resolve/main/win/WinDirStat-v2.2.2-x64.msi",
+      "http": "https://kdirstat.sourceforge.net/"
+    },
+    "isTop": true
+  },
+  {
+    "cat": "ad",
+    "title": "Leaderboard",
+    "desc": "编程模型排行榜",
+    "url": "https://artificialanalysis.ai/?intelligence=coding-index#intelligence-tabs",
+    "isTop": true
+  }
+]
