@@ -10,11 +10,10 @@
     },
     "isTop": true
   },
-  {
-    "cat": "ad",
-    "title": "Leaderboard",
-    "desc": "编程模型排行榜",
-    "url": "https://artificialanalysis.ai/?intelligence=coding-index#intelligence-tabs",
-    "isTop": true
-  }
+  { "cat": "text", "title": "Codex", "desc": "代码编辑器。", "url": "https://chatgpt.com/codex/cloud", "isTop": true },
+  { "cat": "ad", "title": "Colab", "desc": "谷歌云端 Python 代码笔记。", "url": "https://colab.new/", "hideOnMobile": true },
+  { "cat": "image", "title": "NanoBananaPro", "desc": "Banana 官网图像生成", "url": "https://labs.google/fx/zh/tools/flow"},
+  { "cat": "video", "title": "Seedance 2.0", "desc": "每天5条10秒视频豆包免费生成。", "url": "https://www.doubao.com/chat/create-image", "isTop": true },
+  { "cat": "image", "title": "Photopea", "desc": "在线PS，图形图层在线编辑器。", "url": "https://www.photopea.com/"},
+  { "cat": "ad", "title": "Cloud Studio", "desc": "每天免费领2小时T4-GPU算力。", "url": "https://cloudstudio.net/user-center", "isTop": true  }
 ]
